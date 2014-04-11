@@ -1,0 +1,15 @@
+{
+
+    "main":"cn.skyliuyang.MainVerticle",
+    "preserve-cwd": true,
+
+    "description":"Vertex Open Platform",
+    "licenses": ["The Apache Software License Version 2.0"],
+    "author": "lybeta",
+
+    "developers": ["lybeta"],
+    "keywords": ["Vert.x", "oauth", "rest", "concurrency", "api", "OpenPlatform"],
+    "homepage": "https://github.com/lybeta/vop",
+
+    "auto-redeploy": true
+}
